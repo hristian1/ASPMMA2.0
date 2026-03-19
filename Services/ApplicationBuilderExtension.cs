@@ -46,7 +46,7 @@ namespace ASPMMA.Services
                 //Seed Roles
                 await roleManager.CreateAsync(new IdentityRole("Admin"));
                 await roleManager.CreateAsync(new IdentityRole("User"));
-                await roleManager.CreateAsync(new IdentityRole("Guest"));
+               // await roleManager.CreateAsync(new IdentityRole("Guest"));
             }
 
             public static async Task SeedSuperAdminAsync(UserManager<Client> userManager)
