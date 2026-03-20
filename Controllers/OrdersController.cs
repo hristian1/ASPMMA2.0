@@ -66,6 +66,7 @@ namespace ASPMMA.Controllers
         }
 
         // GET: Orders/Create
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             //ViewData["ClientId"] = new SelectList(_context.Users, "Id", "Id");

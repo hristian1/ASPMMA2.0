@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\migrations\\20260319161439_sigurnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:migrations\\20260319161439_sigurnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\admin123\\desktop\\aspmma2.0\\aspmma2.0\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|c:\\users\\stem-1-1\\desktop\\aspmma2.0\\aspmma2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26F7BD14-33CB-4D4F-A737-605F2B7222B7}|ASPMMA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,86 +38,85 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T16:16:14.542Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T08:48:45.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20260319161439_Sigurnost.cs",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Migrations\\20260319161439_Sigurnost.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260319161439_Sigurnost.cs",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Migrations\\20260319161439_Sigurnost.cs",
-              "RelativeToolTip": "Migrations\\20260319161439_Sigurnost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T16:14:41.123Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T08:48:15.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-19T16:13:41.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:13:41.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ApplicationBuilderExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Services\\ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Services\\ApplicationBuilderExtension.cs",
               "RelativeDocumentMoniker": "Services\\ApplicationBuilderExtension.cs",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Services\\ApplicationBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Services\\ApplicationBuilderExtension.cs",
               "RelativeToolTip": "Services\\ApplicationBuilderExtension.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:12:41.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:11:53.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin123\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\STEM-1-1\\Desktop\\ASPMMA2.0\\ASPMMA2.0\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-19T16:11:44.526Z",
               "EditorCaption": ""
